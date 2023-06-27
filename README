@@ -1,0 +1,12 @@
+## Problem statement : The building having 10 floors and two lift. Write a program such that the users can use lift efficiently.
+
+## How to run the application:
+Step 1: Run the liftControl.js file using command `node liftControl.js` and then "ctrl + L" on first terminal
+Step 2: Run the liftStatusExtension.js file using command `node liftUpdate.js` on second terminal
+Step 3: You can give the input according to you and switch between floors by entering the floor number.
+Step 4: Program is build such that the nearest possible lift will used.
+
+
+### Inputs : we are accepting two inputs : 
+1. first parameter is the floor number from which user want to access the lift.
+2. second parameter is the floor numner at which user want to go.
